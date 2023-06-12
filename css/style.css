@@ -2,7 +2,9 @@ body{
     background-color: #f5f5f1;
 }
 
-
+.card{
+    width: 18rem;
+}
 
 .card img{
     max-width: 100%;
